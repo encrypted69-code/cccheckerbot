@@ -4,10 +4,11 @@ BOT_TOKEN: "8161625128:AAH-s6KpjGEWWwMxaZofy2eik2nJtx4yNCw"
 
 MONGO_URL: "mongodb+srv://ottsonlywork:Aditi733202@cluster0.nhutwmd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
-# Use only REDIS_URI with the port included, and REMOVE the REDIS_PORT line to avoid :6379:6379 errors!
-REDIS_URI: "redis://:Aditi3232@127.0.0.1:6379"
-# REDIS_PORT: 6379   # <--- REMOVE or COMMENT OUT this line
-REDIS_PASS: "Aditi3232"
+REDIS_URI: "redis://:S6TgRAG6Dy7BbDkVaKmBFNlhv09bYeR3@redis-17032.c14.us-east-1-2.ec2.redns.redis-cloud.com:17032"
+# Remove or comment out REDIS_PORT if it exists to avoid double port issues
+# REDIS_PORT: 17032
+REDIS_PASS: "S6TgRAG6Dy7BbDkVaKmBFNlhv09bYeR3"
+
 
 SESSION_API_ID: 29124922
 SESSION_API_HASH: "59fad73fd7de8140c4966e9300fef085"
