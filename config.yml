@@ -5,8 +5,7 @@ BOT_TOKEN: "8161625128:AAH-s6KpjGEWWwMxaZofy2eik2nJtx4yNCw"
 MONGO_URL: "mongodb+srv://ottsonlywork:Aditi733202@cluster0.nhutwmd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 REDIS_URI: "redis://:S6TgRAG6Dy7BbDkVaKmBFNlhv09bYeR3@redis-17032.c14.us-east-1-2.ec2.redns.redis-cloud.com:17032"
-# Remove or comment out REDIS_PORT if it exists to avoid double port issues
-# REDIS_PORT: 17032
+# REDIS_PORT: 6379   # <-- Remove or comment out this line!
 REDIS_PASS: "S6TgRAG6Dy7BbDkVaKmBFNlhv09bYeR3"
 
 
