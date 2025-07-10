@@ -4,7 +4,7 @@ BOT_TOKEN: 8161625128:AAH-s6KpjGEWWwMxaZofy2eik2nJtx4yNCw
 
 MONGO_URL: mongodb+srv://ottsonlywork:Aditi733202@cluster0.nhutwmd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
-REDIS_URI: redis://:Aditi3232@localhost
+REDIS_URI: REDIS_URI: redis://:Aditi3232@127.0.0.1:6379
 REDIS_PORT: 6379
 REDIS_PASS: Aditi3232
 
